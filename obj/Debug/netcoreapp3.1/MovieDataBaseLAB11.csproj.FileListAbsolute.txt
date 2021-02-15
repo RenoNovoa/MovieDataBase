@@ -1,0 +1,13 @@
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\bin\Debug\netcoreapp3.1\MovieDataBaseLAB11.exe
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\bin\Debug\netcoreapp3.1\MovieDataBaseLAB11.deps.json
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\bin\Debug\netcoreapp3.1\MovieDataBaseLAB11.runtimeconfig.json
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\bin\Debug\netcoreapp3.1\MovieDataBaseLAB11.runtimeconfig.dev.json
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\bin\Debug\netcoreapp3.1\MovieDataBaseLAB11.dll
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\bin\Debug\netcoreapp3.1\MovieDataBaseLAB11.pdb
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\obj\Debug\netcoreapp3.1\MovieDataBaseLAB11.csprojAssemblyReference.cache
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\obj\Debug\netcoreapp3.1\MovieDataBaseLAB11.AssemblyInfoInputs.cache
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\obj\Debug\netcoreapp3.1\MovieDataBaseLAB11.AssemblyInfo.cs
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\obj\Debug\netcoreapp3.1\MovieDataBaseLAB11.csproj.CoreCompileInputs.cache
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\obj\Debug\netcoreapp3.1\MovieDataBaseLAB11.dll
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\obj\Debug\netcoreapp3.1\MovieDataBaseLAB11.pdb
+C:\Users\djnov\source\repos\MovieDataBaseLAB11\obj\Debug\netcoreapp3.1\MovieDataBaseLAB11.genruntimeconfig.cache
